@@ -1,1 +1,14 @@
-lab-iam
+# Semana 1
+
+## Día 1
+
+### Topics Studied
+- Cloud Computing
+- IaaS, PaaS, SaaS
+- Shared Responsibility Model
+- IAM Basics
+
+### What I Learned
+Cloud computing allows companies to scale infrastructure without managing physical hardware.
+
+IAM helps manage permissions and access securely in AWS.
